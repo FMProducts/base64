@@ -1,0 +1,5 @@
+info:
+	// open encode jar
+	java -jar base64encode.jar
+	// open decode jar
+	java -jar base64decode.jar
